@@ -1,0 +1,12 @@
+{
+  "name": "taskboard",
+  "version": "1.0.0",
+  "description": "Simple task board app for Docker and Kubernetes assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.19.2"
+  }
+}
